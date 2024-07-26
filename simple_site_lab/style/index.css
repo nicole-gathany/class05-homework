@@ -1,3 +1,50 @@
 body {
     background-color: #88cfe6;
+    border: 3px solid #2fde0f;
+    padding: 50px;
 }
+
+h1, h2, li, p {
+    color: white;
+}
+
+h2, li {
+    font-family: "Arimo", sans-serif;
+}
+
+li {
+    list-style-type: none;
+}
+
+.about-us {
+    text-decoration: none;
+    color: white;
+    clear: both;
+}
+
+.nav-links {
+    color: #2bcd0d;
+}
+
+
+img {
+    float: inline-end;
+    width: 28%;
+}
+
+.first {
+    float: left;
+}
+
+.second {
+    float: left;
+}
+
+.third {
+    float: left;
+}
+
+footer {
+    clear: both;
+}
+
