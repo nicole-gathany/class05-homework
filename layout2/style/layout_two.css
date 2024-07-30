@@ -1,0 +1,35 @@
+
+* {
+   box-sizing: border-box;
+}
+ section, div, footer, header {
+    border: solid 1px black;
+ }
+
+ section > div {
+   float: left;
+ }
+
+ .section-one {
+   height: 250px;
+ }
+
+.div-one, .div-two {
+   height: 300px;
+}
+
+ .div-one {
+   width: 33.33%
+ }
+
+ .div-two {
+   width: 66.66%
+ }
+
+ header, footer {
+   height: 100px;
+ }
+
+ footer {
+   clear: both;
+ }
