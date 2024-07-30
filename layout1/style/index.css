@@ -1,0 +1,31 @@
+
+ * {
+    box-sizing: border-box
+ }
+ div, header, footer {
+    border: solid 1px black;
+}
+
+.section-one {
+    background-color: aqua;
+}
+
+.section-one div {
+
+    height: 300px;
+    width: 33.333%;
+    float: left;
+
+}
+
+
+.section-two div {
+    height: 350px;
+    width: 50%;
+    float: left;
+}
+
+header, footer {
+    height: 65px;
+    clear: both;
+}
