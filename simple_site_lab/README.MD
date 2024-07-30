@@ -1,1 +1,1 @@
-exercise to see if i can use floats even though they're obsolete in a sense
+exercises to see if i can use floats even though they're obsolete in a sense
